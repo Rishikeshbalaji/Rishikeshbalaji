@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @Rishikeshbalaji
-- 👀 I’m interested in data analysts or bussiness analysts 
-- 🌱 I’m currently learning B.Tech 
-- 💞️ I’m looking to collaborate on data analysts or bussiness analysts
+- 👀 I’m interested in data analysts and bussiness analysts 
+- 🌱 I’m currently learning B.Tech in ECE
+- 💞️ I’m looking to collaborate on data analysts and bussiness analysts
 - 📫 How to reach me ...
 
 <!---

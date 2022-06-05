@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @Rishikeshbalaji
 - 👀 I’m interested in data analysts and bussiness analysts 
-- 🌱 I’m currently learning B.Tech in ECE
+- 🌱 I’m currently learning data analysts
 - 💞️ I’m looking to collaborate on data analysts and bussiness analysts
 - 📫 How to reach me https://www.linkedin.com/in/rishikesh-balaji-a8156b1bb/
 
